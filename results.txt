@@ -1,0 +1,4 @@
+before /catalog 0/3  0.0%
+before /orders  1/4  25.0%
+after  /catalog 0/3  0.0%
+after  /orders  3/6  50.0%
