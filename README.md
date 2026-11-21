@@ -43,4 +43,5 @@ My proposed rollback was to restore four workers. I’d confirm all four were re
 
 ## Medium write-up
 
-*Why Were Orders Timing Out After the Deployment?*
+[Why Were Orders Timing Out After the Deployment?](https://medium.com/@asowoseyi35/why-were-orders-timing-out-after-the-deployment-a82b2d47d1ae)
+
